@@ -45,7 +45,7 @@ while True:
         elif select =='4':
             print(num1, "/", num2, "=", divide(num1 ,num2))
 
-        new_calculation = input("Are you want to do more calculation? (Yes/no) :")
+        new_calculation = input("do you want to do more calculation? (Yes/no) :")
         if new_calculation == "no":
             break
 
